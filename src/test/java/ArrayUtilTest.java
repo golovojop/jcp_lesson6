@@ -63,5 +63,4 @@ public class ArrayUtilTest {
 
         Assert.assertTrue(ArrayUtil.containsAll(array, patterns));
     }
-
 }
